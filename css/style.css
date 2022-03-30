@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav-bar-body{
+    margin-left: 260px;
+}
+.nav-bar-body ul li{
+    background: transparent;
+    margin-right: 3px;
+}
+.nav-bar-body ul li:hover{
+    background: transparent;
+    border: 1px solid yellow;
+    margin-right: 3px;
+}
+.slider-image{
+    background-size: cover;
+    min-height: 794px;
+}
+.navbar {
+    background:transparent;
+}
+.our-attractions-div .card{
+    width:18rem;
+    height:580px;
+}
+.heading{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: red;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.district-head-div{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: red;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    
+}
+.district-image-top{
+    height:100px;
+}
+a:active {
+    background-color: yellow;
+}
+.login-div{
+    background-color: aqua;
+    float:left;
+}
+.signup-div{
+    background-color: blue;
+    float:right;
+}
+.login-card{
+    border:0px;
+    background-color: #FFF;
+}
+.signup-card{
+    border:0px;
+    background-color: #FFF;
+}
+.site-footer{
+    min-height: 30px;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.site-footer p{
+    color: #FFF;
+    text-align: center;
+}
+#load-more-btn-div{
+    padding-top:50px;
+    padding-left: 500px;
+}
+.district-image-top-1{
+    height:150px;
+}
+.card:hover{
+    top:-10px;
+    border:1px solid red;
+}
+.card-text-1
+{
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+}
