@@ -91,3 +91,12 @@ a:active {
     text-decoration: none;
     color:black;
 }
+.breadcrumb{
+    padding-left: 600px;
+}
+.single-image{
+    padding-bottom: 40px;
+}
+.single-page-last-div{
+    padding-bottom: 100px;
+}
