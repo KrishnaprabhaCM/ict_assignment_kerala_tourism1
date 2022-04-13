@@ -100,3 +100,13 @@ a:active {
 .single-page-last-div{
     padding-bottom: 101px;
 }
+.errorMsg{
+    color: red;
+}
+.progress {
+    height: 4px;
+}
+  
+.progress-bar {
+    background-color: green;
+}
